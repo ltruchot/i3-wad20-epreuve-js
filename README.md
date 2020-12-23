@@ -145,3 +145,4 @@ Les éléments suivants sont créés dans la div `#app` via JavaScript:
 - Il est impossible de commander plus de vaccins que les quantités existantes
 - Le calcul exact des prix, vaccins par vaccins, et le total du prix final sont ajoutés dans le footer
 - Ils sont aussi rappelés dans la page suivante
+
